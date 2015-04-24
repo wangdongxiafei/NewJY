@@ -8,6 +8,7 @@
 	<name>wangdong Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
+	<!-- 配置spring需要的jar包  -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
